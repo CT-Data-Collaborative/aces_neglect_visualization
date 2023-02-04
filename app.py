@@ -1,8 +1,8 @@
 import plotly.graph_objects as go
 import plotly.io as pio
 import pandas as pd 
-import chart_studio.tools as tls
-import chart_studio.plotly as py
+# import chart_studio.tools as tls
+# import chart_studio.plotly as py
 
 #hide the plotly logo
 config = {'displaylogo': False}
